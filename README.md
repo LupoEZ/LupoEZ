@@ -1,4 +1,6 @@
-## Hi there 👋
+## Wazzup 👋
+
+<a href="https://app.daily.dev/ericzeneljaj"><img src="./devcard.png" width="356" alt="Eric's Dev Card"/></a>
 
 <!--
 **LupoEZ/LupoEZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
